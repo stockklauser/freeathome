@@ -114,6 +114,10 @@ NAME_IDS_TO_BINARY_SENSOR_SUFFIX = {
         0x0048: ' RB', # 2-way right, bottom
         0x0066: ' T',  # 1-way, top
         0x0067: ' B',
+        0x0380: ' T', #Oberer Taster
+        0x0381: ' B',  #Unterer Taster
+        0x0382: ' NS1', # Nebenstelle 1
+        0x0383: ' NS2', # Nebenstelle 2
         }
 
 ### Pairing IDs
